@@ -1,0 +1,52 @@
+.wrapper
+{
+  margin: 0 620px;
+  width: 1000px;
+/*background-color: red; */
+}
+
+div{
+  margin: 0 620px;
+  width: 1000px;
+}
+
+/*This function changes the font style and size for the word default*/
+h1
+{
+  font-size: 20px;
+  font-family: arial, "Times New Roman";
+  margin: 0 650px;
+  width: 1000px;
+}
+
+form
+{
+  width: 300px;
+}
+
+input
+{
+  width: 100%;
+}
+
+input{
+  outline: none;
+  border:2px solid #ddd;
+}
+
+input:focus{
+  box shadow: 0 0 4px rgba(255,0,0,0.5);
+  border: 2px solid green;
+}
+.paragraph
+{
+  text-align: center;
+  background-color: green;
+}
+
+.img-quest_logo
+{
+  align-items: center;
+margin: 0 auto;
+width: 350px;
+}
